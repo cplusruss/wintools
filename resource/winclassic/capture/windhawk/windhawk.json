@@ -1,0 +1,891 @@
+[
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine",
+  "name": "Warning",
+  "type": "SZ",
+  "data": "Don't delete this key, even if it's empty"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro",
+  "name": "Architecture",
+  "type": "SZ",
+  "data": "x86-64"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro",
+  "name": "Disabled",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro",
+  "name": "Exclude",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro",
+  "name": "Include",
+  "type": "SZ",
+  "data": "allegro.exe|allegro_free_viewer.exe"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro",
+  "name": "LibraryFileName",
+  "type": "SZ",
+  "data": "local@allegro_0.81.0_541478.dll"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro",
+  "name": "LoggingEnabled",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro",
+  "name": "SettingsChangeTime",
+  "type": "DWORD",
+  "data": 1781819663
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro",
+  "name": "Version",
+  "type": "SZ",
+  "data": "0.81.0"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "applyLegacy",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "blankLabels",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "comboShrink",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "dumpTree",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "dumpWindow",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "floatToolbar",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "hideCmdPrompt",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "hideScrollbars",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "inspect",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "inspectChildren",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "logNames",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "noHScroll",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "noStripes",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "panelBorder",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "probeBrush",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "probeVisPane",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "stdCheckboxes",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@allegro\\Settings",
+  "name": "styleCmd",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11",
+  "name": "Architecture",
+  "type": "SZ",
+  "data": "x86-64|x86"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11",
+  "name": "Disabled",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11",
+  "name": "Exclude",
+  "type": "SZ",
+  "data": "jan.exe|code.exe|cursor.exe|discord.exe|slack.exe|obsidian.exe|signal.exe|githubdesktop.exe|postman.exe|notion.exe|spotify.exe|whatsapp.exe|ms-teams.exe|figma.exe|element.exe"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11",
+  "name": "Include",
+  "type": "SZ",
+  "data": "*|dllhost.exe"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11",
+  "name": "LibraryFileName",
+  "type": "SZ",
+  "data": "local@cplusruss-w11_1.0.0_500570.dll"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11",
+  "name": "LoggingEnabled",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11",
+  "name": "SettingsChangeTime",
+  "type": "DWORD",
+  "data": 1781472325
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11",
+  "name": "Version",
+  "type": "SZ",
+  "data": "1.0.0"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-applications",
+  "name": "Architecture",
+  "type": "SZ",
+  "data": "x86|x86-64"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-applications",
+  "name": "Disabled",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-applications",
+  "name": "Exclude",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-applications",
+  "name": "Include",
+  "type": "SZ",
+  "data": "visio.exe|SLDWORKS.exe"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-applications",
+  "name": "LibraryFileName",
+  "type": "SZ",
+  "data": "local@cplusruss-w11-applications_2.1.0_944403.dll"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-applications",
+  "name": "LoggingEnabled",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-applications",
+  "name": "SettingsChangeTime",
+  "type": "DWORD",
+  "data": 1782143400
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-applications",
+  "name": "Version",
+  "type": "SZ",
+  "data": "2.1.0"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-applications\\Settings",
+  "name": "diagnostics",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-applications\\Settings",
+  "name": "visioSpoofVersion",
+  "type": "SZ",
+  "data": "win2000"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-frameless",
+  "name": "Architecture",
+  "type": "SZ",
+  "data": "x86-64"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-frameless",
+  "name": "Disabled",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-frameless",
+  "name": "Exclude",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-frameless",
+  "name": "Include",
+  "type": "SZ",
+  "data": "code.exe|vscodium.exe|jan.exe|anythingllm.exe|claude.exe|chatgpt.exe|cursor.exe|discord.exe|slack.exe|obsidian.exe|signal.exe|notion.exe|spotify.exe|whatsapp.exe|ms-teams.exe|figma.exe|element.exe|Logic.exe"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-frameless",
+  "name": "LibraryFileName",
+  "type": "SZ",
+  "data": "local@cplusruss-w11-frameless_0.26.0_194337.dll"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-frameless",
+  "name": "LoggingEnabled",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-frameless",
+  "name": "SettingsChangeTime",
+  "type": "DWORD",
+  "data": 1787427611
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-frameless",
+  "name": "Version",
+  "type": "SZ",
+  "data": "0.26.0"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell",
+  "name": "Architecture",
+  "type": "SZ",
+  "data": "x86-64"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell",
+  "name": "Disabled",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell",
+  "name": "Exclude",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell",
+  "name": "Include",
+  "type": "SZ",
+  "data": "explorer.exe|ShellExperienceHost.exe"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell",
+  "name": "LibraryFileName",
+  "type": "SZ",
+  "data": "local@cplusruss-w11-shell_0.3.2_693380.dll"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell",
+  "name": "LoggingEnabled",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell",
+  "name": "SettingsChangeTime",
+  "type": "DWORD",
+  "data": 1782334777
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell",
+  "name": "Version",
+  "type": "SZ",
+  "data": "0.3.2"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "bevel",
+  "type": "DWORD",
+  "data": 2
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "bgColor",
+  "type": "SZ",
+  "data": "FFFF55"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "bodyFont",
+  "type": "SZ",
+  "data": "Tahoma"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "bodySize",
+  "type": "DWORD",
+  "data": 14
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "border3d",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "borderColor",
+  "type": "DWORD",
+  "data": 111111
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "fireTest",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "flatBorder",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "headingBold",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "headingFont",
+  "type": "SZ",
+  "data": "Arial"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "headingSize",
+  "type": "DWORD",
+  "data": 16
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "highlightColor",
+  "type": "SZ",
+  "data": "FFFFFF"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "iconSize",
+  "type": "DWORD",
+  "data": 32
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "inspector",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "inspectorLog",
+  "type": "SZ",
+  "data": "auto"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "removeShadow",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "senderBold",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "senderFont",
+  "type": "SZ",
+  "data": "Tahoma"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "senderSize",
+  "type": "DWORD",
+  "data": 16
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "shadowColor",
+  "type": "SZ",
+  "data": "404040"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "squareCorners",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-shell\\Settings",
+  "name": "toasts",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-winlogon",
+  "name": "Architecture",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-winlogon",
+  "name": "Disabled",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-winlogon",
+  "name": "Exclude",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-winlogon",
+  "name": "Include",
+  "type": "SZ",
+  "data": "winlogon.exe"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-winlogon",
+  "name": "LibraryFileName",
+  "type": "SZ",
+  "data": "local@cplusruss-w11-winlogon_1.3.1_958167.dll"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-winlogon",
+  "name": "LoggingEnabled",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-winlogon",
+  "name": "SettingsChangeTime",
+  "type": "DWORD",
+  "data": 1781469870
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11-winlogon",
+  "name": "Version",
+  "type": "SZ",
+  "data": "1.3.1"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "AlternateLineColor",
+  "type": "SZ",
+  "data": "Automatic"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "CloseButtonXOffset",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "CloseButtonYOffset",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "composition",
+  "type": "SZ",
+  "data": "classic"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "customizetext",
+  "type": "SZ",
+  "data": "Customize..."
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "customizetooltip",
+  "type": "SZ",
+  "data": "Click here to select what icons appear on the taskbar."
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "defender",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "DrawButtons",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "DrawLines",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "explorer",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "explorerStyle",
+  "type": "SZ",
+  "data": "classicNavigationBar"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "FoldersText",
+  "type": "SZ",
+  "data": "default"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "GradientBackground",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "HotTracking",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "LinesAtRoot",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "narrator",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "network",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "nosettingsicon",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "sound",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Mods\\local@cplusruss-w11\\Settings",
+  "name": "style",
+  "type": "SZ",
+  "data": "vista"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Settings",
+  "name": "Exclude",
+  "type": "SZ",
+  "data": "C:\\Program Files (x86)\\Dropbox\\Client\\Dropbox.exe"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Settings",
+  "name": "Include",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Settings",
+  "name": "InjectIntoCriticalProcesses",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Settings",
+  "name": "InjectIntoGames",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Settings",
+  "name": "InjectIntoIncompatiblePrograms",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Settings",
+  "name": "LoggingVerbosity",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Engine\\Settings",
+  "name": "ThreadAttachExempt",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Settings",
+  "name": "DevModeOptOut",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Settings",
+  "name": "DevModeUsedAtLeastOnce",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Settings",
+  "name": "DisableUpdateCheck",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Settings",
+  "name": "DontAutoShowToolkit",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Settings",
+  "name": "HideTrayIcon",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Settings",
+  "name": "Language",
+  "type": "SZ",
+  "data": "en"
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Settings",
+  "name": "LoggingVerbosity",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Settings",
+  "name": "ModTasksDialogDelay",
+  "type": "DWORD",
+  "data": 2000
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Windhawk\\Settings",
+  "name": "SafeMode",
+  "type": "DWORD",
+  "data": 0
+ }
+]

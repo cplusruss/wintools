@@ -1,0 +1,506 @@
+[
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker",
+  "name": "hidetray",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker",
+  "name": "language",
+  "type": "DWORD",
+  "data": 1033
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker",
+  "name": "lefttrayfunc",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker",
+  "name": "nounsupportedwarning_w11",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker",
+  "name": "updcheck",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker",
+  "name": "updcheckauto",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069356",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069373",
+  "type": "DWORD",
+  "data": 3
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069425",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069475",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069546",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069553",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069604",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069660",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069695",
+  "type": "DWORD",
+  "data": 4
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069751",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069808",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069834",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069878",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069924",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069940",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318069999",
+  "type": "DWORD",
+  "data": 2
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318070012",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1318070048",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1319067226",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1321056197",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1321056220",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1321127752",
+  "type": "DWORD",
+  "data": 2
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1322639717",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1322639729",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1322745792",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1326387462",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1329809759",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1365090333",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\Options",
+  "name": "1383174804",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "always_show_thumb_labels",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "always_show_tooltip",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "cycle_same_virtual_desktop",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "disable_items_drag",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "disable_taskbar_transparency",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "disable_topmost",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "disable_tray_icons_drag",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "drag_towards_desktop",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "fix_hang_reposition",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "list_reverse_order",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "multipage_wheel_scroll",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "multirow_equal_width",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "no_start_btn_spacing",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "no_width_limit",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "nocheck_close",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "nocheck_maximize",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "nocheck_minimize",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "pinned_ungrouped_animate_launch",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "right_drag_toggle_labels",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "scroll_maximize_restore",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "scroll_no_wrap",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "scroll_reverse_cycle",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "scroll_reverse_minimize",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "show_desktop_button_size",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "show_desktop_on_hover",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "show_labels",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "sndvol_classic",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "sndvol_no_auto_mute_toggle",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "sndvol_step",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "sndvol_tooltip",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "tray_clock_fix_width",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "tray_icons_padding",
+  "type": "DWORD",
+  "data": 6
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "virtual_desktop_order_fix",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "w10_large_icons",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "w7_show_desktop_classic_corner",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\7 Taskbar Tweaker\\OptionsEx",
+  "name": "w7_tasklist_htclient",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+  "name": "7 Taskbar Tweaker",
+  "type": "SZ",
+  "data": "\"C:\\Program Files\\7+ Taskbar Tweaker\\7+ Taskbar Tweaker.exe\" -hidewnd"
+ }
+]

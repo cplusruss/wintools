@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Tool caches
+.ruff_cache/
+.pytest_cache/
+
+# Build output (build_exe.py)
+dist/
+build/
+*.spec
+
+# Throwaway scripts and PyInstaller work tree
+temp/
+
+# Per-machine settings and launchers
+*.ini
+*.lnk
+.claude/settings.local.json
+
+# Third-party installers (148 MB windhawk exceeds GitHub's file limit);
+# shipped as wintools-winclassic-kit.zip on the release instead
+resource/winclassic/installers/

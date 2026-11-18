@@ -1,0 +1,499 @@
+[
+ {
+  "hive": "HKCU",
+  "path": "Software\\Classes\\CLSID\\{1eeb5b5a-06fb-4732-96b3-975c0194eb39}\\InprocServer32",
+  "name": "",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\Classes\\CLSID\\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\\InprocServer32",
+  "name": "",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "AllocConsole",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "CenterMenus",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "ClassicThemeMitigations",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "ClockFlyoutOnWinC",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "DisableAeroSnapQuadrants",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "DisableImmersiveContextMenu",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "DisableOfficeHotkeys",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "DisableWinFHotkey",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "DoNotRedirectDateAndTimeToSettingsApp",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "DoNotRedirectNotificationIconsToSettingsApp",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "DoNotRedirectProgramsAndFeaturesToSettingsApp",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "DoNotRedirectSystemToSettingsApp",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "EnableSymbolDownload",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "FileExplorerCommandUI",
+  "type": "DWORD",
+  "data": 2
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "FlyoutMenus",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "HideControlCenterButton",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "HideExplorerSearchBar",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "IMEStyle",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "ImportOK",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "Language",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "LegacyFileTransferDialog",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "Memcheck",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "MicaEffectOnTitlebar",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "MigratedFromOldSettings",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "MMOldTaskbarAl",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "MMTaskbarGlomLevel",
+  "type": "DWORD",
+  "data": 2
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "NoMenuAccelerator",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "NoPropertiesInContextMenu",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "OldTaskbar",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "OldTaskbarAl",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "OrbStyle",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "PinnedItemsActAsQuickLaunch",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "PropertiesInWinX",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "RemoveExtraGapAroundPinnedItems",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "ReplaceNetwork",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "ShrinkExplorerAddressBar",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "SkinMenus",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "TaskbarAutohideOnDoubleClick",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "TaskbarGlomLevel",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "ToolbarSeparators",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "UpdateAllowDowngrades",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "UpdatePolicy",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "UpdatePreferStaging",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "UpdateURL",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "UpdateURLStaging",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "UpdateUseLocal",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "UseClassicDriveGrouping",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher",
+  "name": "Virtualized_{D17F1E1A-5919-4427-8F89-A1A8503CA3EB}_FileExplorerCommandUI",
+  "type": "DWORD",
+  "data": 2
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "ColorScheme",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "CornerPreference",
+  "type": "DWORD",
+  "data": 2
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "IncludeWallpaper",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "MasterPadding",
+  "type": "DWORD",
+  "data": 20
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "MaxHeight",
+  "type": "DWORD",
+  "data": 80
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "MaxWidth",
+  "type": "DWORD",
+  "data": 80
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "NoPerApplicationList",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "PerMonitor",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "PrimaryOnly",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "RowHeight",
+  "type": "DWORD",
+  "data": 230
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "ScrollWheelBehavior",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "ShowDelay",
+  "type": "DWORD",
+  "data": 100
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "SwitcherIsPerApplication",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\ExplorerPatcher\\sws",
+  "name": "Theme",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+  "name": "MMTaskbarGlomLevel",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+  "name": "Start_ShowClassicMode",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+  "name": "TaskbarAl",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+  "name": "TaskbarGlomLevel",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+  "name": "TaskbarSD",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+  "name": "TaskbarSmallIcons",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKLM",
+  "path": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+  "name": "UseWin32BatteryFlyout",
+  "type": "DWORD",
+  "data": 1
+ }
+]

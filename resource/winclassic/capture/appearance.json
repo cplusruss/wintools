@@ -1,0 +1,2508 @@
+[
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance",
+  "name": "CustomColors",
+  "type": "BINARY",
+  "data": "d4d0c8000a246a00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance",
+  "name": "NewCurrent",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance",
+  "name": "SchemeLangID",
+  "type": "BINARY",
+  "data": "0904"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes",
+  "name": "ClassicPreview",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes",
+  "name": "SelectedScheme",
+  "type": "SZ",
+  "data": "cplusruss"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color0",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color1",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color10",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color11",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color12",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color13",
+  "type": "DWORD",
+  "data": 6956042
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color14",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color15",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color16",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color17",
+  "type": "DWORD",
+  "data": 2039583
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color18",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color19",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color2",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color20",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color21",
+  "type": "DWORD",
+  "data": 4210752
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color22",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color23",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color24",
+  "type": "DWORD",
+  "data": 14811135
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color25",
+  "type": "DWORD",
+  "data": 11908533
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color26",
+  "type": "DWORD",
+  "data": 8388608
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color27",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color28",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color29",
+  "type": "DWORD",
+  "data": 6956042
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color3",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color30",
+  "type": "DWORD",
+  "data": 6956042
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color4",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color5",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color6",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color7",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color8",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Color9",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "FlatMenus",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss",
+  "name": "Gradients",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Font0",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Font1",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Font2",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Font3",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Font4",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Font5",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Size0",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Size1",
+  "type": "DWORD",
+  "data": 16
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Size2",
+  "type": "DWORD",
+  "data": 16
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Size3",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Size4",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Size5",
+  "type": "DWORD",
+  "data": 12
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Size6",
+  "type": "DWORD",
+  "data": 15
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Size7",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Size8",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\cplusruss\\Normal",
+  "name": "Size9",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color0",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color1",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color10",
+  "type": "DWORD",
+  "data": 16711680
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color11",
+  "type": "DWORD",
+  "data": 16776960
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color12",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color13",
+  "type": "DWORD",
+  "data": 32768
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color14",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color15",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color16",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color17",
+  "type": "DWORD",
+  "data": 65280
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color18",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color19",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color2",
+  "type": "DWORD",
+  "data": 16711680
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color20",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color21",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color22",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color23",
+  "type": "DWORD",
+  "data": 65535
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color24",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color25",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color26",
+  "type": "DWORD",
+  "data": 16744576
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color27",
+  "type": "DWORD",
+  "data": 16711680
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color28",
+  "type": "DWORD",
+  "data": 16776960
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color29",
+  "type": "DWORD",
+  "data": 1254741200
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color3",
+  "type": "DWORD",
+  "data": 16776960
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color30",
+  "type": "DWORD",
+  "data": 32765
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color4",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color5",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color6",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color7",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color8",
+  "type": "DWORD",
+  "data": 65535
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Color9",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "FlatMenus",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1",
+  "name": "Gradients",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Font0",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Font1",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Font2",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Font3",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Font4",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Font5",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Size0",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Size1",
+  "type": "DWORD",
+  "data": 17
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Size2",
+  "type": "DWORD",
+  "data": 17
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Size3",
+  "type": "DWORD",
+  "data": 20
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Size4",
+  "type": "DWORD",
+  "data": 20
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Size5",
+  "type": "DWORD",
+  "data": 15
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Size6",
+  "type": "DWORD",
+  "data": 15
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Size7",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Size8",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #1\\Normal",
+  "name": "Size9",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color0",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color1",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color10",
+  "type": "DWORD",
+  "data": 16776960
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color11",
+  "type": "DWORD",
+  "data": 16711680
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color12",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color13",
+  "type": "DWORD",
+  "data": 16711680
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color14",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color15",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color16",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color17",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color18",
+  "type": "DWORD",
+  "data": 65280
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color19",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color2",
+  "type": "DWORD",
+  "data": 16776960
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color20",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color21",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color22",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color23",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color24",
+  "type": "DWORD",
+  "data": 65535
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color25",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color26",
+  "type": "DWORD",
+  "data": 16744576
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color27",
+  "type": "DWORD",
+  "data": 16776960
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color28",
+  "type": "DWORD",
+  "data": 16711680
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color29",
+  "type": "DWORD",
+  "data": 1254741200
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color3",
+  "type": "DWORD",
+  "data": 16711680
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color30",
+  "type": "DWORD",
+  "data": 32765
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color4",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color5",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color6",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color7",
+  "type": "DWORD",
+  "data": 65280
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color8",
+  "type": "DWORD",
+  "data": 65280
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Color9",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "FlatMenus",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2",
+  "name": "Gradients",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Font0",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Font1",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Font2",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Font3",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Font4",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Font5",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Size0",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Size1",
+  "type": "DWORD",
+  "data": 17
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Size2",
+  "type": "DWORD",
+  "data": 17
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Size3",
+  "type": "DWORD",
+  "data": 20
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Size4",
+  "type": "DWORD",
+  "data": 20
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Size5",
+  "type": "DWORD",
+  "data": 15
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Size6",
+  "type": "DWORD",
+  "data": 15
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Size7",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Size8",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast #2\\Normal",
+  "name": "Size9",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color0",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color1",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color10",
+  "type": "DWORD",
+  "data": 65535
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color11",
+  "type": "DWORD",
+  "data": 32768
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color12",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color13",
+  "type": "DWORD",
+  "data": 8388736
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color14",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color15",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color16",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color17",
+  "type": "DWORD",
+  "data": 65280
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color18",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color19",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color2",
+  "type": "DWORD",
+  "data": 8388736
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color20",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color21",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color22",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color23",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color24",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color25",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color26",
+  "type": "DWORD",
+  "data": 16744576
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color27",
+  "type": "DWORD",
+  "data": 8388736
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color28",
+  "type": "DWORD",
+  "data": 32768
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color29",
+  "type": "DWORD",
+  "data": 1254741200
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color3",
+  "type": "DWORD",
+  "data": 32768
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color30",
+  "type": "DWORD",
+  "data": 32765
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color4",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color5",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color6",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color7",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color8",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Color9",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "FlatMenus",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black",
+  "name": "Gradients",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Font0",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Font1",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Font2",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Font3",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Font4",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Font5",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Size0",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Size1",
+  "type": "DWORD",
+  "data": 17
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Size2",
+  "type": "DWORD",
+  "data": 17
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Size3",
+  "type": "DWORD",
+  "data": 20
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Size4",
+  "type": "DWORD",
+  "data": 20
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Size5",
+  "type": "DWORD",
+  "data": 15
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Size6",
+  "type": "DWORD",
+  "data": 15
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Size7",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Size8",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast Black\\Normal",
+  "name": "Size9",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color0",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color1",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color10",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color11",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color12",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color13",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color14",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color15",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color16",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color17",
+  "type": "DWORD",
+  "data": 32768
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color18",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color19",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color2",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color20",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color21",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color22",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color23",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color24",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color25",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color26",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color27",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color28",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color29",
+  "type": "DWORD",
+  "data": 1254741200
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color3",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color30",
+  "type": "DWORD",
+  "data": 32765
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color4",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color5",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color6",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color7",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color8",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Color9",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "FlatMenus",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White",
+  "name": "Gradients",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Font0",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Font1",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Font2",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Font3",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Font4",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Font5",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Size0",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Size1",
+  "type": "DWORD",
+  "data": 17
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Size2",
+  "type": "DWORD",
+  "data": 17
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Size3",
+  "type": "DWORD",
+  "data": 20
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Size4",
+  "type": "DWORD",
+  "data": 20
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Size5",
+  "type": "DWORD",
+  "data": 15
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Size6",
+  "type": "DWORD",
+  "data": 15
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Size7",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Size8",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\High Contrast White\\Normal",
+  "name": "Size9",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color0",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color1",
+  "type": "DWORD",
+  "data": 10841658
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color10",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color11",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color12",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color13",
+  "type": "DWORD",
+  "data": 6956042
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color14",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color15",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color16",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color17",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color18",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color19",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color2",
+  "type": "DWORD",
+  "data": 6956042
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color20",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color21",
+  "type": "DWORD",
+  "data": 4210752
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color22",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color23",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color24",
+  "type": "DWORD",
+  "data": 14811135
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color25",
+  "type": "DWORD",
+  "data": 11908533
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color26",
+  "type": "DWORD",
+  "data": 8388608
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color27",
+  "type": "DWORD",
+  "data": 15780518
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color28",
+  "type": "DWORD",
+  "data": 12632256
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color29",
+  "type": "DWORD",
+  "data": 1254741200
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color3",
+  "type": "DWORD",
+  "data": 8421504
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color30",
+  "type": "DWORD",
+  "data": 32765
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color4",
+  "type": "DWORD",
+  "data": 13160660
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color5",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color6",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color7",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color8",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Color9",
+  "type": "DWORD",
+  "data": 16777215
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "FlatMenus",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "Gradients",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard",
+  "name": "SelectedSize",
+  "type": "SZ",
+  "data": "Normal"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Font0",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Font1",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Font2",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Font3",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Font4",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Font5",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Size0",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Size1",
+  "type": "DWORD",
+  "data": 16
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Size2",
+  "type": "DWORD",
+  "data": 16
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Size3",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Size4",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Size5",
+  "type": "DWORD",
+  "data": 12
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Size6",
+  "type": "DWORD",
+  "data": 15
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Size7",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Size8",
+  "type": "DWORD",
+  "data": 18
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\ClassicSchemes\\Windows Standard\\Normal",
+  "name": "Size9",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\Schemes",
+  "name": "@themeui.dll,-850",
+  "type": "BINARY",
+  "data": "02000000460000000100000011000000110000001400000014000000f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000fc7f2214fc7fb0fe120000000000000000009823eb770f0000000f000000f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000f077002014000000001080051400f01f1400000014001200000012000000f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000140088fbe87702020000acb9f0770000000020000000f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000007c6be87700000000f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000600000018000000fffffffff04b21fc00c4f077f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000014000b00000000ff120050000000c0fe12000c10000100000000000000000000ff0000ffff000000000000000000ffffff00ffffff00ffff0000ffffff000000ff0000ffff000000000000800000ffffff00000000008080800000ff0000ffffff0000000000c0c0c000ffffff00ffffff00ffff000000000000c0c0c0008080ff000000ff0000ffff00"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\Schemes",
+  "name": "@themeui.dll,-851",
+  "type": "BINARY",
+  "data": "02000000460000000100000011000000110000001400000014000000f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000fc7f2214fc7fb0fe120000000000000000009823eb770f0000000f000000f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000f077002014000000001080051400f01f1400000014001200000012000000f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000140088fbe87702020000acb9f0770000000020000000f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000007c6be87700000000f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000600000018000000fffffffff04b21fc00c4f077f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000014000b00000000ff120050000000c0fe12000c100001000000000000000000ffff000000ff000000000000000000ffffff0000ff000000ff00000000000000ffff000000ff00ffffff000000ff00ffffff000000000080808000c0c0c00000ff0000ffffff00c0c0c000ffffff00ffffff0000000000ffff0000c0c0c0008080ff0000ffff000000ff00"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\Schemes",
+  "name": "@themeui.dll,-852",
+  "type": "BINARY",
+  "data": "02000000460000000100000011000000110000001400000014000000f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000fc7f2214fc7fb0fe120000000000000000009823eb770f0000000f000000f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000f077002014000000001080051400f01f1400000014001200000012000000f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000140088fbe87702020000acb9f0770000000020000000f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000007c6be87700000000f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000600000018000000fffffffff04b21fc00c4f077f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000014000b00000000ff120050000000c0fe12000c100001000000000000000080008000008000000000000000000000ffffff00ffffff00ffffff00ffffff00ffff0000008000000000000080008000ffffff00000000008080800000ff0000ffffff00ffffff00c0c0c000ffffff00ffffff00ffffff0000000000c0c0c0008080ff008000800000800000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\Schemes",
+  "name": "@themeui.dll,-853",
+  "type": "BINARY",
+  "data": "02000000460000000100000011000000110000001400000014000000f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000fc7f2214fc7fb0fe120000000000000000009823eb770f0000000f000000f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000f077002014000000001080051400f01f1400000014001200000012000000f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e0073002000530065007200690066000000140088fbe87702020000acb9f0770000000020000000f5ffffff0000000000000000000000009001000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000000000000000000000000007c6be87700000000f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000000000600000018000000fffffffff04b21fc00c4f077f5ffffff000000000000000000000000bc02000000000000000000004d006900630072006f0073006f00660074002000530061006e007300200053006500720069006600000014000b00000000ff120050000000c0fe12000c100001ffffff00ffffff0000000000ffffff00ffffff00ffffff00000000000000000000000000ffffff0080808000c0c0c0008080800000000000ffffff00ffffff0080808000008000000000000000000000c0c0c00000000000c0c0c00000000000ffffff00c0c0c0000000000000000000ffffff00"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Appearance\\Schemes",
+  "name": "@themeui.dll,-854",
+  "type": "BINARY",
+  "data": "02000000f40100000100000010000000100000001200000012000000f5ffffff000000000000000000000000bc02000000000000000000005400610068006f006d006100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c0000000f000000f5ffffff000000000000000000000000bc02000000000000000000005400610068006f006d006100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001200000012000000f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000d4d0c8003a6ea5000a246a0080808000d4d0c800ffffff00000000000000000000000000ffffff00d4d0c800d4d0c800808080000a246a00ffffff00d4d0c800808080008080800000000000d4d0c800ffffff0040404000d4d0c80000000000ffffe100b5b5b50000008000a6caf000c0c0c000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "ActiveBorder",
+  "type": "SZ",
+  "data": "212 208 200"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "ActiveTitle",
+  "type": "SZ",
+  "data": "212 208 200"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "AppWorkspace",
+  "type": "SZ",
+  "data": "128 128 128"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "Background",
+  "type": "SZ",
+  "data": "0 0 0"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "ButtonAlternateFace",
+  "type": "SZ",
+  "data": "181 181 181"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "ButtonDkShadow",
+  "type": "SZ",
+  "data": "64 64 64"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "ButtonFace",
+  "type": "SZ",
+  "data": "212 208 200"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "ButtonHilight",
+  "type": "SZ",
+  "data": "255 255 255"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "ButtonLight",
+  "type": "SZ",
+  "data": "212 208 200"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "ButtonShadow",
+  "type": "SZ",
+  "data": "128 128 128"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "ButtonText",
+  "type": "SZ",
+  "data": "0 0 0"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "GradientActiveTitle",
+  "type": "SZ",
+  "data": "212 208 200"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "GradientInactiveTitle",
+  "type": "SZ",
+  "data": "212 208 200"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "GrayText",
+  "type": "SZ",
+  "data": "31 31 31"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "Hilight",
+  "type": "SZ",
+  "data": "10 36 106"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "HilightText",
+  "type": "SZ",
+  "data": "255 255 255"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "HotTrackingColor",
+  "type": "SZ",
+  "data": "0 0 128"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "InactiveBorder",
+  "type": "SZ",
+  "data": "212 208 200"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "InactiveTitle",
+  "type": "SZ",
+  "data": "212 208 200"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "InactiveTitleText",
+  "type": "SZ",
+  "data": "0 0 0"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "InfoText",
+  "type": "SZ",
+  "data": "0 0 0"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "InfoWindow",
+  "type": "SZ",
+  "data": "255 255 225"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "Menu",
+  "type": "SZ",
+  "data": "212 208 200"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "MenuBar",
+  "type": "SZ",
+  "data": "10 36 106"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "MenuHilight",
+  "type": "SZ",
+  "data": "10 36 106"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "MenuText",
+  "type": "SZ",
+  "data": "0 0 0"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "Scrollbar",
+  "type": "SZ",
+  "data": "212 208 200"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "TitleText",
+  "type": "SZ",
+  "data": "0 0 0"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "Window",
+  "type": "SZ",
+  "data": "255 255 255"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "WindowFrame",
+  "type": "SZ",
+  "data": "0 0 0"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Colors",
+  "name": "WindowText",
+  "type": "SZ",
+  "data": "0 0 0"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "BorderWidth",
+  "type": "SZ",
+  "data": "-15"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "CaptionFont",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "CaptionHeight",
+  "type": "SZ",
+  "data": "-270"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "CaptionWidth",
+  "type": "SZ",
+  "data": "-270"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "IconFont",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "IconSpacing",
+  "type": "SZ",
+  "data": "-1125"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "IconTitleWrap",
+  "type": "SZ",
+  "data": "1"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "IconVerticalSpacing",
+  "type": "SZ",
+  "data": "-1125"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "MenuFont",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "MenuHeight",
+  "type": "SZ",
+  "data": "-270"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "MenuWidth",
+  "type": "SZ",
+  "data": "-270"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "MessageFont",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "MinAnimate",
+  "type": "SZ",
+  "data": "0"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "PaddedBorderWidth",
+  "type": "SZ",
+  "data": "0"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "ScrollHeight",
+  "type": "SZ",
+  "data": "-240"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "ScrollWidth",
+  "type": "SZ",
+  "data": "-240"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "Shell Icon Size",
+  "type": "SZ",
+  "data": "32"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "SmCaptionFont",
+  "type": "BINARY",
+  "data": "f5ffffff000000000000000000000000bc02000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "SmCaptionHeight",
+  "type": "SZ",
+  "data": "-225"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "SmCaptionWidth",
+  "type": "SZ",
+  "data": "-180"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Control Panel\\Desktop\\WindowMetrics",
+  "name": "StatusFont",
+  "type": "BINARY",
+  "data": "f5ffffff0000000000000000000000009001000000000000000000005400610068006f006d00610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts",
+  "name": "Marlett (TrueType)",
+  "type": "SZ",
+  "data": "C:\\Users\\cplusruss\\AppData\\Local\\Microsoft\\Windows\\Fonts\\marlett.ttf"
+ }
+]

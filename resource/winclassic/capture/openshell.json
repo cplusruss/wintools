@@ -1,0 +1,600 @@
+[
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\ClassicExplorer\\Settings",
+  "name": "FullIndent",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\ClassicExplorer\\Settings",
+  "name": "NoFadeButtons",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\ClassicExplorer\\Settings",
+  "name": "ShowStatusBar",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\ClassicExplorer\\Settings",
+  "name": "StatusBarFont",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\ClassicExplorer\\Settings",
+  "name": "TreeItemSpacing",
+  "type": "DWORD",
+  "data": 4294967294
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\ClassicExplorer\\Settings",
+  "name": "UseBigButtons",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "AllProgramsMetro",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "AllTaskbars",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "AutoStart",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "BoldSettings",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "CheckWinUpdates",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "ControlPanelCategories",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "CustomTaskbar",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "DelayIcons",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "EnableAccelerators",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "EnableAccessibility",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "EnableContextMenu",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "EnableGlass",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "EnableJumplists",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "EnableStartButton",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "FoldersFirst",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "FontSmoothing",
+  "type": "SZ",
+  "data": "Default"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "HideProgramsMetro",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "HighlightNew",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "HybridShutdown",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "MainMenuAnimate",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "MaxJumplists",
+  "type": "DWORD",
+  "data": 20
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "MaxRecentDocuments",
+  "type": "DWORD",
+  "data": 80
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "MaxRecentPrograms",
+  "type": "DWORD",
+  "data": 80
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "MenuDelay",
+  "type": "DWORD",
+  "data": 100
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "MenuItems7",
+  "type": "MULTI_SZ",
+  "data": [
+   "Item1.Command=user_files",
+   "Item1.Settings=NOEXPAND",
+   "Item2.Command=lib_documents",
+   "Item2.Settings=NOEXPAND",
+   "Item3.Command=lib_pictures",
+   "Item3.Settings=ITEM_DISABLED",
+   "Item4.Command=lib_music",
+   "Item4.Settings=ITEM_DISABLED",
+   "Item5.Command=lib_videos",
+   "Item5.Settings=ITEM_DISABLED",
+   "Item6.Command=lib_tv",
+   "Item6.Settings=ITEM_DISABLED",
+   "Item7.Command=downloads",
+   "Item7.Settings=NOEXPAND",
+   "Item8.Command=homegroup",
+   "Item8.Settings=ITEM_DISABLED",
+   "Item9.Command=separator",
+   "Item10.Command=games",
+   "Item10.Settings=TRACK_RECENT|ITEM_DISABLED",
+   "Item11.Command=favorites",
+   "Item11.Settings=ITEM_DISABLED",
+   "Item12.Command=recent_documents",
+   "Item12.Settings=SINGLE_EXPAND",
+   "Item13.Command=computer",
+   "Item13.Settings=NOEXPAND",
+   "Item14.Command=network",
+   "Item15.Command=network_connections",
+   "Item15.Settings=ITEM_DISABLED",
+   "Item16.Command=separator",
+   "Item17.Command=control_panel",
+   "Item17.Settings=TRACK_RECENT",
+   "Item18.Command=pc_settings",
+   "Item18.Settings=TRACK_RECENT",
+   "Item19.Command=admin",
+   "Item19.Settings=TRACK_RECENT|NOEXPAND",
+   "Item20.Command=devices",
+   "Item20.Settings=NOEXPAND",
+   "Item21.Command=defaults",
+   "Item22.Command=help",
+   "Item23.Command=run",
+   "Item24.Command=apps",
+   "Item24.Settings=ITEM_DISABLED",
+   "Item25.Command=windows_security"
+  ]
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "MenuShadow",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "MenuStyle",
+  "type": "SZ",
+  "data": "Win7"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "MinMainHeight",
+  "type": "DWORD",
+  "data": 100
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "MoreResults",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "OpenMouseMonitor",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "ProgramsMenuDelay",
+  "type": "DWORD",
+  "data": 200
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "ProgramsWidth",
+  "type": "DWORD",
+  "data": 64
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "RecentMetroApps",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "RecentProgKeys",
+  "type": "SZ",
+  "data": "Digits"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "RecentPrograms",
+  "type": "SZ",
+  "data": "Recent"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "RecentProgsTop",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "RecentSortName",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "RemoteShutdown",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SameSizeColumns",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "ScrollType",
+  "type": "SZ",
+  "data": "NoScroll"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SearchBox",
+  "type": "SZ",
+  "data": "Normal"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SearchFiles",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SearchHint",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SearchInternet",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SearchMetroApps",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SearchMetroSettings",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SearchTrack",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "ShiftClick",
+  "type": "SZ",
+  "data": "ClassicMenu"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "ShiftRight",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "ShiftWin",
+  "type": "SZ",
+  "data": "Nothing"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "ShowNextToTaskbar",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "ShutdownCommand",
+  "type": "SZ",
+  "data": "CommandLogOff"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SkinA",
+  "type": "SZ",
+  "data": "Classic Skin"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SkinOptionsA",
+  "type": "MULTI_SZ",
+  "data": [
+   "THICK_BORDER=1",
+   "SOLID_SELECTION=1"
+  ]
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SkinOptionsW7",
+  "type": "MULTI_SZ",
+  "data": [
+   "USER_IMAGE=1",
+   "SMALL_ICONS=1",
+   "THICK_BORDER=1",
+   "SOLID_SELECTION=1"
+  ]
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SkinVariationA",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SkinVariationW7",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SkinW7",
+  "type": "SZ",
+  "data": "Classic Skin"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SkipMetro",
+  "type": "DWORD",
+  "data": 1
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SmallIconSize",
+  "type": "DWORD",
+  "data": 16
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "StartButtonIconSize",
+  "type": "DWORD",
+  "data": 16
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "StartButtonPath",
+  "type": "SZ",
+  "data": "%SystemRoot%\\System32\\@WLOGO_96x96.png"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "StartButtonSize",
+  "type": "DWORD",
+  "data": 32
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "StartButtonText",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "StartButtonTip",
+  "type": "SZ",
+  "data": ""
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "StartButtonType",
+  "type": "SZ",
+  "data": "ClasicButton"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "StartScreenShortcut",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "SubMenuScrollSpeed",
+  "type": "DWORD",
+  "data": 6
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "TaskbarColor",
+  "type": "DWORD",
+  "data": 0
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "TaskbarLook",
+  "type": "SZ",
+  "data": "Glass"
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "Version",
+  "type": "DWORD",
+  "data": 67371199
+ },
+ {
+  "hive": "HKCU",
+  "path": "Software\\OpenShell\\StartMenu\\Settings",
+  "name": "WinKey",
+  "type": "SZ",
+  "data": "ClassicMenu"
+ }
+]
