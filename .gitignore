@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Tool caches
+.ruff_cache/
+.pytest_cache/
+
+# Build output (build_exe.py)
+dist/
+build/
+*.spec
+
+# Throwaway scripts and PyInstaller work tree
+temp/
+
+# Per-machine settings and launchers
+*.ini
+*.lnk
+
+# Dev-only: plans, tests, probe and migration scripts, Claude config
+docs/
+sandbox/
+tools/
+.claude/
+CLAUDE.md
+resource/icons/make_tab_icons.py
+
+# Not part of the exe: the PawnIO probe, the standalone unlock script, and
+# the winclassic kit (shipped as wintools-winclassic-kit.zip on the release)
+pawnio.py
+unlock.py
+gear.ico
+resource/pawnio/
+resource/*.zip
+resource/winclassic/
